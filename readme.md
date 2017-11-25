@@ -31,3 +31,20 @@ In Terminal
 15. github password (the terminal purposely does not show you the letters you type nor indicates that you're typing. Type anyways, without error)
 
 16. Check Github > you will see your initial commit !! 
+
+--
+
+17. To Do New Commits !!! > git status 
+
+18. We see 'modified:' + 'names of files' in red > git add readme.md ('readme.md' is the file I want to push)
+
+19. git status > to know what's up 
+
+20. it says 'modified:' + 'name of file' in green > shows that we successfully added the file(s)
+
+21. git commit -m "process of using git with oF" > '-m' is message (useful for noting what changes were made)
+
+22. git push (ALMIGHTY PUSH !) 
+
+23. Check github, it's been pushed !! Jaaaa !!!!
+
