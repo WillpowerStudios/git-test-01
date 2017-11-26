@@ -18,7 +18,7 @@ In Terminal
 
 08. git commit -m "Initial Commit" > first commit 
 
-09. git log > info 
+09. git log > list of commits
 
 10. in Github, create new repository 
 
