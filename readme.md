@@ -10,41 +10,45 @@ In Terminal
 
 04. ls -a > to see all dot files 
 
-05. git status > to know what's going on 
+05. git init > initialize empty git repository
 
-06. add -A > to add all files for a commit 
+06. to remove a .git > rm -r .git 
 
-07. git status > to see that all files have been added 
+07. git status > to know what's going on 
 
-08. git commit -m "Initial Commit" > first commit 
+08. git add -A > to add all files for a commit 
 
-09. git log > list of commits
+09. git status > to see that all files have been added 
 
-10. in Github, create new repository 
+10. git commit -m "Initial Commit" > first commit 
 
-12. git remote add origin https://github.com/WillpowerStudios/git-test-01.git > add where to push commit from new repository page
+11. git log > list of commits
 
-13. git push -u origin master > Push 
+12. in Github, create new repository 
 
-14. github username
+13. git remote add origin https://github.com/WillpowerStudios/git-test-01.git > add where to push commit from new repository page
 
-15. github password (the terminal purposely does not show you the letters you type nor indicates that you're typing. Type anyways, without error)
+14. git push -u origin master > Push 
 
-16. Check Github > you will see your initial commit !! 
+15. github username
+
+16. github password (the terminal purposely does not show you the letters you type nor indicates that you're typing. Type anyways, without error)
+
+17. Check Github > you will see your initial commit !! 
 
 --
 
-17. To Do New Commits !!! > git status 
+18. To Do New Commits !!! > git status 
 
-18. We see 'modified:' + 'names of files' in red > git add readme.md ('readme.md' is the file I want to push)
+19. We see 'modified:' + 'names of files' in red > git add readme.md ('readme.md' is the file I want to push)
 
-19. git status > to know what's up 
+20. git status > to know what's up 
 
-20. it says 'modified:' + 'name of file' in green > shows that we successfully added the file(s)
+21. it says 'modified:' + 'name of file' in green > shows that we successfully added the file(s)
 
-21. git commit -m "process of using git with oF" > '-m' is message (useful for noting what changes were made)
+22. git commit -m "process of using git with oF" > '-m' is message (useful for noting what changes were made)
 
-22. git push (ALMIGHTY PUSH !) 
+23. git push (ALMIGHTY PUSH !) 
 
-23. Check github, it's been pushed !! Jaaaa !!!!
+24. Check github, it's been pushed !! Jaaaa !!!!
 
