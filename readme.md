@@ -42,7 +42,7 @@ In Terminal
 
 19. We see 'modified:' + 'names of files' in red > git add readme.md ('readme.md' is the file I want to push)
 
-20. git status > to know what's up 
+20. git add . > to add file  
 
 21. it says 'modified:' + 'name of file' in green > shows that we successfully added the file(s)
 
