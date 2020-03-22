@@ -20,35 +20,33 @@ In Terminal
 
 09. git status > to see that all files have been added 
 
-10. git commit -m "Initial Commit" > first commit 
+10. in Github, create new repository
 
-11. git log > list of commits
+11. git commit -m "Initial Commit" > first commit  
 
-12. in Github, create new repository 
+12. git remote add origin https://github.com/WillpowerStudios/git-test-01.git > add where to push commit from new repository page
 
-13. git remote add origin https://github.com/WillpowerStudios/git-test-01.git > add where to push commit from new repository page
+13. git push -u origin master > Push 
 
-14. git push -u origin master > Push 
+14. github username
 
-15. github username
+15. github password (the terminal purposely does not show you the letters you type nor indicates that you're typing. Type anyways, without error)
 
-16. github password (the terminal purposely does not show you the letters you type nor indicates that you're typing. Type anyways, without error)
-
-17. Check Github > you will see your initial commit !! 
+16. Check Github > you will see your initial commit !! 
 
 --
 
-18. To Do New Commits !!! > git status 
+01. To Do New Commits !!! > git status 
 
-19. We see 'modified:' + 'names of files' in red > git add readme.md ('readme.md' is the file I want to push)
+02. We see 'modified:' + 'names of files' in red > git add readme.md ('readme.md' is the file I want to push)
 
-20. git add . > to add file  
+03. git add . > to add file  
 
-21. it says 'modified:' + 'name of file' in green > shows that we successfully added the file(s)
+04. it says 'modified:' + 'name of file' in green > shows that we successfully added the file(s)
 
-22. git commit -m "process of using git with oF" > '-m' is message (useful for noting what changes were made)
+05. git commit -m "process of using git with oF" > '-m' is message (useful for noting what changes were made)
 
-23. git push (ALMIGHTY PUSH !) 
+06. git push (ALMIGHTY PUSH !) 
 
-24. Check github, it's been pushed !! Jaaaa !!!!
+07. Check github, it's been pushed !! Jaaaa !!!!
 
